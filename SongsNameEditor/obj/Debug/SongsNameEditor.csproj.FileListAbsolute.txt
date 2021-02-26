@@ -1,0 +1,10 @@
+D:\GitHub\New folder\SongsNameEditor\SongsNameEditor\bin\Debug\SongsNameEditor.exe.config
+D:\GitHub\New folder\SongsNameEditor\SongsNameEditor\bin\Debug\SongsNameEditor.exe
+D:\GitHub\New folder\SongsNameEditor\SongsNameEditor\bin\Debug\SongsNameEditor.pdb
+D:\GitHub\New folder\SongsNameEditor\SongsNameEditor\obj\Debug\SongsNameEditor.csprojAssemblyReference.cache
+D:\GitHub\New folder\SongsNameEditor\SongsNameEditor\obj\Debug\SongsNameEditor.Form1.resources
+D:\GitHub\New folder\SongsNameEditor\SongsNameEditor\obj\Debug\SongsNameEditor.Properties.Resources.resources
+D:\GitHub\New folder\SongsNameEditor\SongsNameEditor\obj\Debug\SongsNameEditor.csproj.GenerateResource.cache
+D:\GitHub\New folder\SongsNameEditor\SongsNameEditor\obj\Debug\SongsNameEditor.csproj.CoreCompileInputs.cache
+D:\GitHub\New folder\SongsNameEditor\SongsNameEditor\obj\Debug\SongsNameEditor.exe
+D:\GitHub\New folder\SongsNameEditor\SongsNameEditor\obj\Debug\SongsNameEditor.pdb
